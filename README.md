@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on improve my skills and ....
-- 🌱 I’m currently learning game development & networking & ethical hacking & penetration testing & security & operating systems
+- 🌱 I’m currently learning many things
 
 <!--
 **arianchemist/arianchemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
